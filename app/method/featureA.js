@@ -3,7 +3,6 @@ function featureA(){
     console.log('dev A tự fix bug');
     console.log("dev B fix bug");
 }
-
-function feature2A(){
-    console.log('hello hihi');
+function feature2A() {
+  console.log("hello ahihi");
 }
